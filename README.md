@@ -1,9 +1,16 @@
 # Visual Intelligence beyond Accuracy for AI
-### Evaluation, Comparison & Optimisation of ML/DL Models
+## Evaluation, Comparison & Optimisation of ML/DL Models
 This repository explores how to visualise and evaluate AI model performance effectively, compare models through meaningful plots, choose the right metrics, and optimise parameters using modern tools. Thus, empowering you to make smarter, data-driven decisions in ML/DL projects.
 Each section corresponds to topics covered in the seminar, with code examples designed to be both educational and adaptable to your own AI projects.
 
-### Visualization of classification metrics (Confusion matrices, ROC/PR curves)
+### Objectives:
+  * Explore key evaluation metrics for classification and regression.
+  * Compare multiple models using interactive visualisations (radar plots, ROC curves, etc.).
+  * Understand and interpret model performance through confusion matrices, learning curves, and error distributions.
+  * Use tools like Scikit-learn, Optuna, MLflow, TensorBoard, and Weights & Biases to tune parameters and track experiments visually.
+
+### Content
+* Visualization of classification metrics (Confusion matrices, ROC/PR curves)
 * Regression error analysis through visual techniques
 * Model comparison using parallel coordinates and radar plots
 * Learning curve interpretation for detecting overfitting
