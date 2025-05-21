@@ -27,11 +27,11 @@ The notebook uses common Python libraries including matplotlib, seaborn, plotly,
 
 #### Libraries to Install
 You can install all the required libraries using pip:
-'''
+```
 bashpip install numpy pandas matplotlib seaborn scikit-learn tensorflow ipython
-'''
+```
 If you're using a Jupyter notebook, you might already have IPython installed. For GPU support with TensorFlow, you might need to install a specific version:
-'''
+```
 bashpip install tensorflow-gpu  # If you have a compatible NVIDIA GPU
-'''
+```
 Note that this code seems to include components for different deep learning projects (computer vision with CIFAR-10, NLP with IMDB, image generation with Fashion-MNIST). You may not need all these imports for a single project.
