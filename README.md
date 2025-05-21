@@ -36,8 +36,6 @@ bashpip install tensorflow-gpu  # If you have a compatible NVIDIA GPU
 ```
 Note that this code seems to include components for different deep learning projects (computer vision with CIFAR-10, NLP with IMDB, image generation with Fashion-MNIST). You may not need all these imports for a single project.
 
-`jldm`
-
 ---
 
 ### Acknowledgements
