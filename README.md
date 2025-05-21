@@ -11,11 +11,11 @@ Each section corresponds to topics covered in the seminar, with code examples de
   * Use tools like Scikit-learn, Optuna, MLflow, TensorBoard, and Weights & Biases to tune parameters and track experiments visually.
 
 ### Content
-* Visualization of classification metrics (Confusion matrices, ROC/PR curves)
+* Trditional ML/DL methods
+* Visualization of ML/DL metrics
 * Regression error analysis through visual techniques
 * Model comparison using parallel coordinates and radar plots
 * Learning curve interpretation for detecting overfitting
-* Hyperparameter optimization visualization
 * Integration with tracking tools (MLflow, Weights & Biases)
 * Best practices for visualization in academic reporting
 
@@ -35,3 +35,10 @@ If you're using a Jupyter notebook, you might already have IPython installed. Fo
 bashpip install tensorflow-gpu  # If you have a compatible NVIDIA GPU
 ```
 Note that this code seems to include components for different deep learning projects (computer vision with CIFAR-10, NLP with IMDB, image generation with Fashion-MNIST). You may not need all these imports for a single project.
+
+`jldm`
+
+---
+
+### Acknowledgements
+The notebooks included in this repository were developed with the aid of online resources, official documentation of the referenced libraries, and insights provided by AI tools such as OpenAI, Gemini, and ClaudeAI.
